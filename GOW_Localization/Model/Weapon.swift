@@ -8,13 +8,12 @@
 import Foundation
 
 struct Weapon{
-    let id: Int
+    
     let name: String
     let description: String
     let poster: String
     
-    init(id: Int, name: String, description: String, poster: String) {
-        self.id = id
+    init(name: String, description: String, poster: String) {
         self.name = name
         self.description = description
         self.poster = poster
