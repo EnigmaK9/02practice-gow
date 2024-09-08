@@ -1,9 +1,6 @@
-### `README.md`
-
-```markdown
 # GOW Localization
 
-![GOW Localization](gears.gif)
+![GOW Localization](./gears.gif)
 
 ## Description
 
@@ -25,32 +22,3 @@ To run the app locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/GOW_Localization.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd GOW_Localization
-   ```
-3. Open the project in Xcode:
-   ```bash
-   open GOW_Localization.xcodeproj
-   ```
-4. Build and run the app on your preferred simulator or device.
-
-## Authors
-
-- **Carlos Padilla** - [EnigmaK9](https://github.com/EnigmaK9)
-- **Sebastian Verastegui** - [sebsphantom]([https://github.com/SebastianVerastegui](http://github.com/sebsphantom/))
-
-## Contributing
-
-We welcome contributions from the community. If you find a bug or have a feature request, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to the developers and contributors who helped create this app.
-- Inspiration from game enthusiasts and players around the world.
-```
