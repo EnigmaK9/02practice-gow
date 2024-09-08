@@ -47,7 +47,7 @@ class HomeViewController: UITableViewController {
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath) as! GOWCell
         // Configure the cell
-        cell.menuTitle.text = menuOptions[indexPath.row].title
+        cell.menuTitle.text = NSLocalizedString(menuOptions[indexPath.row].title, comment: "")
         cell.menuImage.image = UIImage(systemName: menuOptions[indexPath.row].image)
         return cell
     }

@@ -47,7 +47,7 @@ class WeaponsViewController: UIViewController {
         Weapon(
         name: "weapon.name.boomshot",
         description: "weapon.description.boomshot",
-        poster: "weapon.name.hammerburstii"
+        poster: "Boomshot"
     ),
         Weapon(
             name: "weapon.name.hammerburstii",
@@ -98,8 +98,8 @@ extension WeaponsViewController : UITableViewDelegate, UITableViewDataSource {
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "cell1", for: indexPath) as! WeaponsCell
-        cell.weaponsTitle.text = arrayWeapons[indexPath.row].name
-        cell.weaponsDescription.text = arrayWeapons[indexPath.row].description
+        cell.weaponsTitle.text = NSLocalizedString(arrayWeapons[indexPath.row].name, comment : "")
+        cell.weaponsDescription.text = NSLocalizedString((arrayWeapons[indexPath.row].description),comment: "")
         cell.weaponsImage.image = UIImage(named: arrayWeapons[indexPath.row].poster)
         return cell
     }

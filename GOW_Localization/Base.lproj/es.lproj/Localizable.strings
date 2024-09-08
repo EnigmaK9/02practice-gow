@@ -1,0 +1,39 @@
+/*
+  Localizable.strings
+  GOW_Localization
+
+  Creado por Carlos Ignacio Padilla Herrera y Sebastian Verastegui el 07/09/24.
+  51:00 06-01
+*/
+//////////////////////
+//  Localizable.strings
+//  GOW_Localization
+/////////////////////////
+
+/* MENÚ */
+"menu.option.videogames" = "Videojuegos";
+"menu.option.characters" = "Personajes";
+"menu.option.weapons" = "Armas";
+"menu.option.merchandise" = "Mercancía";
+
+/* ARMAS */
+"weapon.name.boomshot" = "Lanzagranadas Boomshot";
+"weapon.description.boomshot" = "Era un lanzagranadas de bombeo de un solo disparo diseñado y utilizado principalmente por los Locust, en particular por los Boomers.";
+"weapon.name.hammerburstii" = "Hammerburst II";
+"weapon.description.hammerburstii" = "Era el fusil de asalto estándar de los Locust de alta potencia. A menudo se le conoce como la contraparte Locust del fusil de asalto COG Lancer.";
+"weapon.name.mulcher" = "Mulcher";
+"weapon.description.mulcher" = "El Mulcher es un fusil Gatling pesado con manivela desarrollado por la Coalición de Gobiernos Organizados.";
+"weapon.name.bolo_grenade" = "Granada Bolo";
+"weapon.description.bolo_grenade" = "La Granada Bolo, también conocida como Granada de Fragmentación, era la granada de fragmentación estándar utilizada por la Coalición de Gobiernos Organizados, la Horda de Locust y el Enjambre.";
+"weapon.name.boltok" = "Pistola Boltok";
+"weapon.description.boltok" = "Era el arma estándar de los Locust, en particular de los Drones. La pistola sigue la filosofía de diseño de armas de los Locust de crear armas con énfasis en la fuerza bruta.";
+"weapon.name.lancer" = "Fusil de asalto Lancer Mark 1";
+"weapon.description.lancer" = "Apodado Retro Lancer durante la Pandemia Lambent, fue el predecesor del fusil de asalto Lancer Mark 2. Anteriormente el fusil de asalto principal del ejército de la Coalición de Gobiernos Organizados, el fusil de asalto Mark 1 se utilizó durante la Guerra del Péndulo.";
+"weapon.name.lancer2" = "Fusil de asalto Lancer Mark 2";
+"weapon.description.lancer2" = "Una actualización del fusil de asalto Lancer Mark 1, producido con una bayoneta de motosierra, mayor precisión, menor retroceso y mayor capacidad de carga de municiones, pero con menor poder de fuego que su predecesor.";
+"weapon.name.sniper" = "Fusil de francotirador Longshot";
+"weapon.description.sniper" = "Era un fusil de francotirador de un solo disparo de gran calibre. Creado por la Coalición de Gobiernos Organizados durante las Guerras del Péndulo, el Longshot también se utilizó diecisiete años después del Día de la Emergencia.";
+"weapon.name.hammer_of_dawn" = "Martillo del Alba";
+"weapon.description.hammer_of_dawn" = "El Martillo del Alba era un láser orbital basado en satélite, alimentado por Imulsion de los COG. Sus componentes clave fueron inventados por el científico de la UIR Mauris Ivo y completados por el profesor Adam Fenix después de que fueran robados durante la Operación: Nivelador.";
+"weapon.name.mx8" = "Pistola Snub MX8";
+"weapon.description.mx8" = "Era el arma secundaria estándar para el personal de las fuerzas armadas de la Coalición de Gobiernos Organizados.";
